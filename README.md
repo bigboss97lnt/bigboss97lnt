@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nasser Tahan</h1>
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/601/115/png-clipart-jack-skellington-wall-decal-the-nightmare-before-christmas-the-pumpkin-king-sticker-window-glass-furniture.png" width="120" style="border-radius: 50%;" />
+  <img src="https://stickypng.com/wp-content/uploads/2023/07/60c914a5645b530004f15c93.png" width="120" style="border-radius: 50%;" />
 </p>
 
 ### 🚀 What I Do
